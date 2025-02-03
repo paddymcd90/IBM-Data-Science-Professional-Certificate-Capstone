@@ -1,6 +1,4 @@
 # Import required libraries
-pip install dash
-
 import pandas as pd
 import dash
 import dash_html_components as html
